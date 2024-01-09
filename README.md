@@ -8,8 +8,10 @@
 
 ## PCA
 Goal: 
-The algorithm proceeds by first finding the component hqving **maximal variance**
+The algorithm proceeds by first finding the component having **maximal variance**
+
 Usage:
+PCA should be used mainly for variables which are strongly correlated
 - Reduce the number of features but cannot identify the unimportant ones that can be ignored, and
 - Ensure that the features of the data are independent of one another even if the features become less interpretable
 
