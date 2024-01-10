@@ -2,11 +2,14 @@
 
 ## 1. K-means clustering of image pixels
 <img width="700" alt="Screenshot 2024-01-09 at 9 55 29 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/4ae0b2fd-3403-4a05-8c9f-cc3269bcef88">
+<img width="432" alt="Screenshot 2024-01-09 at 9 57 59 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/1c12465e-7f8b-4d5a-b410-135a7598e18a">
+<img width="708" alt="Screenshot 2024-01-09 at 9 57 51 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/0ec044a8-2df0-48c4-a031-c166360bf36e">
 
 Usage: 
 K-means clustering can be highly useful for image pixel analysis by segmenting an image into clusters based on pixel intensities or color. This technique assigns each pixel to a cluster with the nearest mean color value, effectively grouping similar pixels togethe
 
 ## 2. Hierarchical Clustering for Breast Cancer 
+<img width="638" alt="Screenshot 2024-01-09 at 9 58 37 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/b6a6545c-8116-4dcc-b4a1-1f0b50ffadae">
 
 Hierarchical clustering is a technique that groups data points into a tree-like structure based on their similarity, revealing multilevel groupings in the data. 
 
