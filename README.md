@@ -14,6 +14,7 @@ K-means clustering can be highly useful for image pixel analysis by segmenting a
 Hierarchical clustering is a technique that groups data points into a tree-like structure based on their similarity, revealing multilevel groupings in the data. 
 
 The three common linkage methods are 
+
 <img width="712" alt="Screenshot 2024-01-09 at 9 56 04 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/aef3489d-1f6b-4e52-9950-d7a9cca140cf">
 
 1. Complete linkage (maximizing distance between clusters)
