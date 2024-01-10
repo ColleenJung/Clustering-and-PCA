@@ -1,8 +1,31 @@
 # Clustering-and-PCA
 
 ## 1. K-means clustering of image pixels
+Usage: 
+K-means clustering can be highly useful for image pixel analysis by segmenting an image into clusters based on pixel intensities or color. This technique assigns each pixel to a cluster with the nearest mean color value, effectively grouping similar pixels togethe
 
 ## 2. Hierarchical Clustering for Breast Cancer 
+
+Hierarchical clustering is a technique that groups data points into a tree-like structure based on their similarity, revealing multilevel groupings in the data. 
+
+The three common linkage methods are 
+1. Complete linkage (maximizing distance between clusters)
+2. Single linkage (minimizing distance)
+3. Average linkage (using the average distance)
+each defining cluster similarity differently to influence the shape and size of the resulting clusters.
+
+## K-means Clustering vs Hierarchical Clustering:
+
+**K-means Clustering**
+1. Large Datasets: K-means is generally more scalable to **large datasets** than hierarchical clustering.
+2. Well-Separated Clusters: It works well when clusters have a spherical shape and are relatively well separated.
+3. Flat Clustering Requirement: K-means provides a flat clustering structure, which is useful when **the number of clusters is known** or can be estimated.
+**Hierarchical Clustering**
+1. Small to Medium Datasets: More suitable for **smaller datasets** due to its higher computational complexity.
+2. Unknown Number of Clusters: Ideal when the number of clusters is not known beforehand, as it provides a dendrogram which can be used to decide the number of clusters.
+3. No Need for Pre-specifying Clusters: **Does not require the number of clusters to be specified in advance**, unlike K-means.
+
+
 
 ## 3. Eigen Decomposition and PCA
 
