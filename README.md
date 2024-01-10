@@ -17,10 +17,14 @@ each defining cluster similarity differently to influence the shape and size of 
 ## K-means Clustering vs Hierarchical Clustering:
 
 **K-means Clustering**
+
 1. Large Datasets: K-means is generally more scalable to **large datasets** than hierarchical clustering.
 2. Well-Separated Clusters: It works well when clusters have a spherical shape and are relatively well separated.
 3. Flat Clustering Requirement: K-means provides a flat clustering structure, which is useful when **the number of clusters is known** or can be estimated.
+
+   
 **Hierarchical Clustering**
+
 1. Small to Medium Datasets: More suitable for **smaller datasets** due to its higher computational complexity.
 2. Unknown Number of Clusters: Ideal when the number of clusters is not known beforehand, as it provides a dendrogram which can be used to decide the number of clusters.
 3. No Need for Pre-specifying Clusters: **Does not require the number of clusters to be specified in advance**, unlike K-means.
