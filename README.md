@@ -1,6 +1,8 @@
 # Clustering-and-PCA
 
 ## 1. K-means clustering of image pixels
+<img width="700" alt="Screenshot 2024-01-09 at 9 55 29 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/4ae0b2fd-3403-4a05-8c9f-cc3269bcef88">
+
 Usage: 
 K-means clustering can be highly useful for image pixel analysis by segmenting an image into clusters based on pixel intensities or color. This technique assigns each pixel to a cluster with the nearest mean color value, effectively grouping similar pixels togethe
 
@@ -9,12 +11,15 @@ K-means clustering can be highly useful for image pixel analysis by segmenting a
 Hierarchical clustering is a technique that groups data points into a tree-like structure based on their similarity, revealing multilevel groupings in the data. 
 
 The three common linkage methods are 
+<img width="712" alt="Screenshot 2024-01-09 at 9 56 04 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/aef3489d-1f6b-4e52-9950-d7a9cca140cf">
+
 1. Complete linkage (maximizing distance between clusters)
 2. Single linkage (minimizing distance)
 3. Average linkage (using the average distance)
 each defining cluster similarity differently to influence the shape and size of the resulting clusters.
 
 ## K-means Clustering vs Hierarchical Clustering:
+<img width="690" alt="Screenshot 2024-01-09 at 9 56 42 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/2aca63e9-4c3a-437d-941f-1f87912d505c">
 
 **K-means Clustering**
 
