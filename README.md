@@ -43,6 +43,8 @@ each defining cluster similarity differently to influence the shape and size of 
 ## 3. Eigen Decomposition and PCA
 
 ## PCA
+<img width="607" alt="Screenshot 2024-01-09 at 10 00 13 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/f650fd4a-dcdd-448a-8221-bb587405cb97">
+
 Goal: 
 The algorithm proceeds by first finding the component having **maximal variance**
 
@@ -51,7 +53,10 @@ PCA should be used mainly for variables which are strongly correlated
 - Reduce the number of features but cannot identify the unimportant ones that can be ignored, and
 - Ensure that the features of the data are independent of one another even if the features become less interpretable
 
+
 ## What do eigenvalues represent in statistics?
+<img width="967" alt="Screenshot 2024-01-09 at 10 01 24 PM" src="https://github.com/ColleenJung/Clustering-and-PCA/assets/119357849/0d0ac4d8-7326-4049-a06e-3a8cc3e39301">
+
 The term **eigenvalues** refers to the variance of a data matrix. 
 While a common term in matrix algebra, in statistics, eigenvalues are commonly discussed in factor analysis. 
 Here, an eigenvalue represents the amount of variance contained by a factor.
